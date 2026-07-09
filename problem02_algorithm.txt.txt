@@ -1,4 +1,4 @@
-Level 2:Multiple-Input Computation Problems
+Problem 2. Circular Garden
 Algorithm
 STEP1.START 
 STEP2.ask for the circular patterns. store it as num1

@@ -1,0 +1,12 @@
+PROBLEM 3. Prepaid Load Subscription 
+Algorithm
+
+STEP 1. START
+STEP 2. Ask the number network rate per day. Store it as Num1.
+STEP 3. Ask the number of days subscribed. Store it as Num2. 
+STEP 4. Compute SubscriptionCost =Num1 x Num2.
+STEP 5. Display SubscriptionCost.
+STEP 6. END.
+  
+ 
+

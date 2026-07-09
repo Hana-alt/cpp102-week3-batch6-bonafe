@@ -1,9 +1,10 @@
          
 Level 1:Basic Linear Problems
-
-Problem 1: Packed Boxes Count 
 Algorithm:
-1. Packed Boxes Count
-2. Circular Garden Path
-3. Prepaid Load Subscription Cost
-4. Game Score Average 
+STEP1.START 
+STEP2.ask for the warehouse packs items into boxes with an equal number of items per box.
+STEP3.ask for the circular garden path has a given radius. 
+STEP4.ask for the mobile network charges a fixed rate per day for a data subscription.
+STEP 5.ask for a player has point totals from three games.
+STEP6.END
+

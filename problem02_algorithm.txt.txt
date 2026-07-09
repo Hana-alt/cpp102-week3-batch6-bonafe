@@ -1,5 +1,8 @@
 Level 2:Multiple-Input Computation Problems
+Algorithm
+STEP1.START 
+STEP2.ask for the customer buys three different hardware items.
+STEP3.ask for the freelance programmer earns an hourly rate for hours worked.
+STEP4.ask for a student's final course grade based on a midterm score
+STEP5.END
 
-5. Hardware Store Purchase Total
-6. Freelance Earnings Computation
-7. Final Course Grade Computation 

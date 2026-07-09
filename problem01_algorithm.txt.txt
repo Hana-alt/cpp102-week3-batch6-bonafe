@@ -1,0 +1,9 @@
+         
+Level 1:Basic Linear Problems
+
+Problem 1: Packed Boxes Count 
+Algorithm:
+1. Packed Boxes Count
+2. Circular Garden Path
+3. Prepaid Load Subscription Cost
+4. Game Score Average 

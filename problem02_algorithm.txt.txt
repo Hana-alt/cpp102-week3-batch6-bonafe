@@ -1,8 +1,8 @@
 Level 2:Multiple-Input Computation Problems
 Algorithm
 STEP1.START 
-STEP2.ask for the customer buys three different hardware items.
-STEP3.ask for the freelance programmer earns an hourly rate for hours worked.
-STEP4.ask for a student's final course grade based on a midterm score
+STEP2.ask for the circular patterns. store it as num1
+STEP3.Computes circumference =2 x 3.1416 x NUM1
+STEP4.DISPLAY circumference.
 STEP5.END
 

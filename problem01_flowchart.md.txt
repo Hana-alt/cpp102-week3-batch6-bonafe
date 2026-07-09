@@ -1,0 +1,6 @@
+flowchart TD
+    A([Start]) --> B[/Packed Boxes Count/]
+    B --> C[/Circular Garden Path/]
+    C --> D[Prepaid Load Subscription Cost]
+    D --> E[/ Game score Average/]
+    E-->  F([End])

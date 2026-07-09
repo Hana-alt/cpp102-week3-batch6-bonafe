@@ -1,0 +1,5 @@
+Level 2:Multiple-Input Computation Problems
+
+5. Hardware Store Purchase Total
+6. Freelance Earnings Computation
+7. Final Course Grade Computation 
